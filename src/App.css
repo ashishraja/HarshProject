@@ -1,0 +1,20 @@
+@import 'tailwindcss/base';
+
+@import 'tailwindcss/components';
+
+@import 'tailwindcss/utilities';
+
+body{
+  background-color: black;
+  color:white;
+}
+.color{
+  background-color: #858886;
+}
+.metric-data{
+  /* background: url("luffy/metric data background.jpg") , black 50% / cover no-repeat;
+  background-blend-mode: hard-light;
+  height:90vh;
+  width:60vw;
+  opacity:.4; */
+}
